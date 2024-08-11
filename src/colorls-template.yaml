@@ -1,0 +1,53 @@
+# $id-colorls
+#
+# $name themed $type color settings for colorls
+#
+# $description
+#
+# (c) 2024 const void*, free + open
+
+# Main Colors
+unrecognized_file: '$gold'          # gold    
+recognized_file:   '$text'          # text 
+executable_file:   '$foam'          # foam   
+dir:               '$rose'          # rose   
+
+# Link
+dead_link:         '$love'          # love
+link:              '$foam'          # foam
+
+# Special Files
+socket:            '$pine'          # pine
+blockdev:          '$pine'          # pine 
+chardev:           '$pine'          # pine
+
+# Access Modes
+write:             '$rose'          # rose
+read:              '$iris'          # iris
+exec:              '$foam'          # foam
+no_access:         '$love'          # love
+
+# Age
+hour_old:          '$subtle'        # subtle
+day_old:           '$muted'         # muted
+no_modifier:       '$overlay'       # overlay
+
+# File Size
+file_large:        '$love'          # love
+file_medium:       '$gold'          # gold
+file_small:        '$rose'          # rose
+
+# Random
+report:            '$rose'          # rose
+user:              '$foam'          # foam 
+tree:              '$highlightHigh' # highlightHigh
+empty:             '$muted'         # muted
+error:             '$love'          # love
+normal:            '$text'          # text
+
+# Git
+addition:          '$foam'          # foam
+modification:      '$iris'          # iris
+deletion:          '$love'          # love
+untracked:         '$gold'          # gold
+unchanged:         '$pine'          # pine
