@@ -76,4 +76,4 @@ Have fun theming!
 
 ## Thanks to
 - [bietdoikiem](https://github.com/bietdoikiem) for https://github.com/bietdoikiem/colorls 
-- 
+  
