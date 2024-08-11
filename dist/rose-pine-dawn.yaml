@@ -1,0 +1,53 @@
+# rose-pine-dawn-colorls
+#
+# Rosé Pine Dawn themed light color settings for colorls
+#
+# All natural pine, faux fur and a bit of soho vibes for the classy minimalist
+#
+# (c) 2024 const void*, free + open
+
+# Main Colors
+unrecognized_file: '#ea9d34'          # gold    
+recognized_file:   '#575279'          # text 
+executable_file:   '#56949f'          # foam   
+dir:               '#d7827e'          # rose   
+
+# Link
+dead_link:         '#b4637a'          # love
+link:              '#56949f'          # foam
+
+# Special Files
+socket:            '#286983'          # pine
+blockdev:          '#286983'          # pine 
+chardev:           '#286983'          # pine
+
+# Access Modes
+write:             '#d7827e'          # rose
+read:              '#907aa9'          # iris
+exec:              '#56949f'          # foam
+no_access:         '#b4637a'          # love
+
+# Age
+hour_old:          '#797593'        # subtle
+day_old:           '#9893a5'         # muted
+no_modifier:       '#f2e9e1'       # overlay
+
+# File Size
+file_large:        '#b4637a'          # love
+file_medium:       '#ea9d34'          # gold
+file_small:        '#d7827e'          # rose
+
+# Random
+report:            '#d7827e'          # rose
+user:              '#56949f'          # foam 
+tree:              '#cecacd' # highlightHigh
+empty:             '#9893a5'         # muted
+error:             '#b4637a'          # love
+normal:            '#575279'          # text
+
+# Git
+addition:          '#56949f'          # foam
+modification:      '#907aa9'          # iris
+deletion:          '#b4637a'          # love
+untracked:         '#ea9d34'          # gold
+unchanged:         '#286983'          # pine
